@@ -1,4 +1,3 @@
-from lib2to3.pgen2 import driver
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
