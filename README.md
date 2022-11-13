@@ -8,3 +8,12 @@ View:
 ![image](https://user-images.githubusercontent.com/114942472/201528828-563bfbdc-b327-4e1d-9bc8-1f533b080928.png)
 
 
+The result created in excel format with data for the price selected by the user:
+
+
+![image](https://user-images.githubusercontent.com/114942472/201529144-dfdb6634-2d1d-4e0d-8025-2575310d7f13.png)
+
+
+
+
+
