@@ -2,7 +2,7 @@ from selenium.webdriver.chrome.service import Service
 from modules.x_com import Xkom
 from modules.data_excel import DataExcel
 
-chrome_driver_path = Service("D:/PROGRAMOWANIE/Chrome driver/chromedriver.exe")
+chrome_driver_path = Service("path to chrome driver")
 
 if __name__=='__main__':
     price_pc = int(input("How much can you spend on buying a new gaming computer? Please enter the amount in the currency PLN : "))
