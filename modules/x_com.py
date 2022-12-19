@@ -1,8 +1,11 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from modules.web_driver import Search
 import time
 import sys
+
+from modules.web_driver import Search
+
+
 
 list_of_pcs = []
 
