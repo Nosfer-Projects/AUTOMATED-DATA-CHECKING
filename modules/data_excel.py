@@ -2,6 +2,9 @@ import pandas as pd
 
 
 class DataExcel:
+    """
+    Class which create DataFrame from data collected and create excel file.
+    """
     @staticmethod
     def create_data(list_of_pcs):
         df = pd.DataFrame(list_of_pcs)
